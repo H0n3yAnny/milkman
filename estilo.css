@@ -1,3 +1,4 @@
 .principal{
     background-image: url("img/image4.png");
+    background-size: contain;
 }
