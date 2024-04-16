@@ -1,4 +1,12 @@
+:root{
+    --cor-principal:#ffffff;
+    --cor-segundaria: #B81C1C;
+    --cor-tercearia: #685A3C;
+    --botao-destaque:#151215;
+    --cor-de-fundo:#2E1C27;
 
+
+}
 
 *{
     margin: 0%;
@@ -8,7 +16,7 @@
 
 .principal{
     background-image: url("img/image4.png");
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 .container{
