@@ -33,7 +33,7 @@
 .container--botao{
     background-color: var(--botao-destaque);
     color: var(--cor-segundaria);
-    padding: 2,5em;
+    padding: 2em;
     border-radius: 10px;
     text-decoration: none;
     display: block;
