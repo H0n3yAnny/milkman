@@ -32,7 +32,7 @@
 }
 .container--botao{
     background-color: var(--botao-destaque);
-    color: var(--cor-principal);
+    color: var(--cor-segundaria);
     padding: 1em;
     border-radius: 10px;
     text-decoration: none;
