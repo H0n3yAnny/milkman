@@ -42,6 +42,7 @@
 .botao--secundario{
     background-color: transparent;
     border: 2px solid var(--cor-principal);
+    color: var(--cor-principal);
 
 }
 
