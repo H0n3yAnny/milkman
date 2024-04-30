@@ -37,14 +37,14 @@
     border-radius: 10px;
     text-decoration: none;
     display: block;
-    margin: 3%;
+    margin: 2%;
 
 }
 .botao--secundario{
     background-color: transparent;
     border: 2px solid var(--cor-principal);
     color: var(--cor-principal);
-    margin: 3%;
+    margin: 2%;
 }
 
 .caixa--container{
